@@ -1,2 +1,2 @@
-<h1>Menu</h1>
-<h3>like Glovo</h3>
+<h1>Chat</h1>
+<h3>like chat</h3>
